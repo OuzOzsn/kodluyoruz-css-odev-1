@@ -1,0 +1,11 @@
+.productsSection h2{
+    text-align: center;
+    color: #5C3D2E;
+}
+.productsArticle{
+    display: flex;
+    justify-content: center;
+}
+.productsArticle p{
+    text-align: center;
+}

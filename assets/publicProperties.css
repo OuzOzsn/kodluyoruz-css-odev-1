@@ -1,0 +1,24 @@
+a{
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    transition: .5s;
+    color: red;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.headerMainHeading{
+    color: #A45D5D;
+}
+.contentDescHeading{
+    color: #5C3D2E;
+}
+.navbarLinks, .headerMainHeading{
+    text-align: center;
+}
+.navbarLinks a{
+    margin-right: 10px;
+}

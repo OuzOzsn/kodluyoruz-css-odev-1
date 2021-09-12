@@ -1,0 +1,9 @@
+.aboutSection h2{
+    text-align: center;
+}
+.aboutSection h3{
+    color: #297F87;
+}
+.aboutSection article{
+    padding: 0 5rem;
+}

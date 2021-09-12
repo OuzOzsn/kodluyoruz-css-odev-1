@@ -1,0 +1,18 @@
+
+.contentDescHeading, .contentDescription p{
+    text-align: center; 
+}
+
+.contentList{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contentList h3{
+    width: 100%;
+    text-align: center;
+    color: #297F87;
+}
+.contentListDiv{
+    width: fit-content;
+}
